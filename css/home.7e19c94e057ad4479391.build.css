@@ -1,0 +1,193 @@
+.section-title {
+    color: #382e2d;
+    letter-spacing: .02rem;
+    font-family: "Squada One";
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+.section-title-home {
+    display: none;
+}
+.section-title-properties {
+    margin-top: 37px;
+}
+@media screen and (max-width: 765px) {
+    .section-title-properties {
+        margin-top: 0px;
+    }
+    .section-title {
+        font-size: 25px;
+    }
+}
+#main-slider {
+  position: relative;
+  overflow: hidden;
+}
+#main-slider .slide,
+#main-slider .slide-block,
+#main-slider .slide-feature,
+#main-slider {
+  height: 63vh;
+}
+#main-slider .slide {
+  float: left;
+}
+#main-slider figcaption {
+  font-family: arial;
+  padding-left: 8px;
+}
+#main-slider .slide-feature {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  background-size: cover;
+  width: 75%;
+}
+#main-slider .slide-content {
+  width: 25%;
+  background-color: #cdc3c4;
+  border-left: solid 4px #8e8485;
+  font-family: arial;
+}
+#main-slider .slide-content h2,
+#main-slider .slide-content p,
+#main-slider .slide-content .callout-link {
+  color: #2d2324;
+  text-align: left;
+}
+#main-slider .callout-link,
+#main-slider .slide-content h2 {
+  font-weight: bold;
+}
+#main-slider .slide-content h2,
+#main-slider .slide-content p {
+  padding-bottom: 8px;
+}
+#main-slider .slide-content p,
+#main-slider .callout-link {
+  line-height: 1.3em;
+  font-size: 0.95em;
+}
+#main-slider .slide-content-wrap {
+  width: 78%;
+  padding-left: 23px;
+}
+#main-slider .slide-content h2 {
+  line-height: 1.05em;
+  font-family: "Squada One";
+  font-size: 1.4em;
+  font-weight: bold;
+}
+#main-slider .callout-link {
+  line-height: 1em;
+  margin-top: 20px;
+  display: block;
+}
+@media screen and (max-width: 1045px) {
+  #main-slider .slide,
+  #main-slider .slide-block,
+  #main-slider .slide-feature,
+  #main-slider {
+    height: 77vh;
+  }
+  #main-slider .slide-block.direction-row {
+    flex-direction: column;
+  }
+  #main-slider .slide-content,
+  #main-slider .slide-feature {
+    width: 100%;
+  }
+  #main-slider .slide-content-wrap {
+    margin: 0px auto;
+    padding-left: 0px;
+    width: 92%;
+  }
+  #main-slider .slide-feature {
+    background-position: center center;
+  }
+  #main-slider .slide-content {
+    border: none;
+    padding: 25px 15px;
+  }
+}
+@media screen and (max-width: 765px) {
+  #main-slider .slide-content {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  #main-slider .slide-content h2 {
+    font-size: 1.2em;
+  }
+  #main-slider .slide-content p {
+    font-size: 0.85em;
+  }
+}
+#main-slider .direction-nav {
+  height: 88px;
+  position: absolute;
+  right: 0px;
+  top: 40%;
+}
+#main-slider .nav-prev {
+    background: url("../images/icons/slider-previous-button.png") repeat 0px 0px #382e2d;
+    margin-bottom: 8px;
+}
+#main-slider .nav-next {
+    background: url("../images/icons/slider-next-button.png") repeat 0px 0px #382e2d;
+}
+#main-slider .nav-prev,
+#main-slider .nav-next {
+    background-size: cover;
+    display: block;
+    cursor: pointer;
+    height: 40px;
+    opacity: .85;
+    text-indent: -10000px;
+    width: 40px;
+}
+#main-slider .nav-prev:hover,
+#main-slider .nav-next:hover {
+    transition: opacity .5s linear;
+    opacity: 1;
+}
+@media screen and (max-width: 1045px) {
+    #main-slider .direction-nav {
+        top: 30%;
+    }
+    #main-slider .nav-prev,
+    #main-slider .nav-next {
+        height: 35px;
+        width: 35px;
+    }
+}
+@media screen and (max-width: 580px) {
+    #main-slider .nav-prev,
+    #main-slider .nav-next {
+        height: 30px;
+        width: 30px;
+    }
+}
+#main-slider .loader {
+    background-image: url("../images/loader/house-loader.gif");
+    background-color: #fbfcf4;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 25%;
+    position: relative;
+    z-index: 200;
+    height: 100%;
+    width: 100%;
+}
+@media screen and (max-width: 765px) {
+    #main-slider .loader {
+        background-size: 50%;
+    }
+}
+/*******
+Main Content Styles
+*******/
+#main-content {
+    background-color: #cdc3c4;
+    flex-grow: 1;
+    width: 100%;
+}

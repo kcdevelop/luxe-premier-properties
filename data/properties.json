@@ -1,0 +1,370 @@
+[
+    {
+        "address": "1921 Someplace Drive", 
+        "cityStateZip": "Fresno, CA. 93777",
+        "url": "", 
+        "type": "house", 
+        "bedrooms": "5", 
+        "bathrooms": "3.5",
+        "propertyImages": [
+            {
+                "name": "property-1921-someplace-drive-fresno-ca-93777 Slide 1", 
+                "image": "property-1921-someplace-drive-fresno-ca-93777-slide1.jpg"
+            },
+            {
+                "name": "property-1921-someplace-drive-fresno-ca-93777 Slide 2", 
+                "image": "property-1921-someplace-drive-fresno-ca-93777-slide2.jpg"
+            },
+            {
+                "name": "property-1921-someplace-drive-fresno-ca-93777 Slide 3", 
+                "image": "property-1921-someplace-drive-fresno-ca-93777-slide3.jpg"
+            },
+            {
+                "name": "property-1921-someplace-drive-fresno-ca-93777 Slide 4", 
+                "image": "property-1921-someplace-drive-fresno-ca-93777-slide4.jpg"
+            },
+            {
+                "name": "property-1921-someplace-drive-fresno-ca-93777 Slide 5", 
+                "image": "property-1921-someplace-drive-fresno-ca-93777-slide4.jpg"
+            }
+        ]
+    },
+    {
+        "address": "2294 Someplace Drive", 
+        "cityStateZip": "Fresno, CA. 93771",
+        "url": "",
+        "type": "house", 
+        "bedrooms": "4", 
+        "bathrooms": "2.5",
+        "propertyImages": [
+            {
+                "name": "2294 someplace drive fresno ca 93772 Slide 1",
+                "image": "property-2294-someplace-drive-fresno-ca-93772-slide1.jpg"
+            },
+            {
+                "name": "2294 someplace drive fresno ca 93772 Slide 2",
+                "image": "property-2294-someplace-drive-fresno-ca-93772-slide2.jpg"
+            },
+            {
+                "name": "2294 someplace drive fresno ca 93772 Slide 3",
+                "image": "property-2294-someplace-drive-fresno-ca-93772-slide3.jpg"
+            },
+            {
+                "name": "2294 someplace drive fresno ca 93772 Slide 4",
+                "image": "property-2294-someplace-drive-fresno-ca-93772-slide4.jpg"
+            }
+        ]
+    },
+    {
+        "address": "4902 Someplace Drive", 
+        "cityStateZip": "Fresno, CA. 93771",
+        "url": "",
+        "type": "house", 
+        "bedrooms": "4", 
+        "bathrooms": "3",
+        "propertyImages": [
+            {
+                "name": "4902 someplace drive fresno ca 93771 Slide 1",
+                "image": "property-4902-someplace-drive-fresno-ca-93771-slide1.jpg"
+            },
+            {
+                "name": "4902 someplace drive fresno ca 93771 Slide 2",
+                "image": "property-4902-someplace-drive-fresno-ca-93771-slide2.jpg"
+            },
+            {
+                "name": "4902 someplace drive fresno ca 93771 Slide 3",
+                "image": "property-4902-someplace-drive-fresno-ca-93771-slide3.jpg"
+            },
+            {
+                "name": "4902 someplace drive fresno ca 93771 Slide 4",
+                "image": "property-4902-someplace-drive-fresno-ca-93771-slide4.jpg"
+            }
+        ]
+    },
+    {
+        "address": "5384 Someplace Drive", 
+        "cityStateZip": "Fresno, CA. 93771",
+        "url": "",
+        "type": "house", 
+        "bedrooms": "5", 
+        "bathrooms": "5",
+        "propertyImages": [
+            {
+                "name": "5384 someplace drive fresno ca 93771 Slide 1",
+                "image": "property-5384-someplace-drive-fresno-ca-93771-slide1.jpg"
+            },
+            {
+                "name": "5384 someplace drive fresno ca 93771 Slide 2",
+                "image": "property-5384-someplace-drive-fresno-ca-93771-slide2.jpg"
+            },
+            {
+                "name": "5384 someplace drive fresno ca 93771 Slide 3",
+                "image": "property-5384-someplace-drive-fresno-ca-93771-slide3.jpg"
+            },
+            {
+                "name": "5384 someplace drive fresno ca 93771 Slide 4",
+                "image": "property-5384-someplace-drive-fresno-ca-93771-slide4.jpg"
+            }
+        ]
+    },
+    {
+        "address": "7382 Someplace Drive", 
+        "cityStateZip": "Fresno, CA. 93771",
+        "url": "",
+        "type": "house", 
+        "bedrooms": "4", 
+        "bathrooms": "2",
+        "propertyImages": [
+            {
+                "name": "7382 someplace drive fresno ca 93772 Slide 1",
+                "image": "property-7382-someplace-drive-fresno-ca-93772-slide1.jpg"
+            },
+            {
+                "name": "7382 someplace drive fresno ca 93772 Slide 2",
+                "image": "property-7382-someplace-drive-fresno-ca-93772-slide2.jpg"
+            },
+            {
+                "name": "7382 someplace drive fresno ca 93772 Slide 3",
+                "image": "property-7382-someplace-drive-fresno-ca-93772-slide3.jpg"
+            },
+            {
+                "name": "7382 someplace drive fresno ca 93772 Slide 4",
+                "image": "property-7382-someplace-drive-fresno-ca-93772-slide4.jpg"
+            }
+        ]
+    },
+    {
+        "address": "8025 Someplace Drive", 
+        "cityStateZip": "Fresno, CA. 93765",
+        "url": "",
+        "type": "house", 
+        "bedrooms": "2", 
+        "bathrooms": "2.5",
+        "propertyImages": [
+            {
+                "name": "8025 someplace drive fresno ca 93765 Slide 1",
+                "image": "property-8025-someplace-drive-fresno-ca-93765-slide1.jpg"
+            },
+            {
+                "name": "8025 someplace drive fresno ca 93765 Slide 2",
+                "image": "property-8025-someplace-drive-fresno-ca-93765-slide2.jpg"
+            },
+            {
+                "name": "8025 someplace drive fresno ca 93765 Slide 3",
+                "image": "property-8025-someplace-drive-fresno-ca-93765-slide3.jpg"
+            },
+            {
+                "name": "8025 someplace drive fresno ca 93765 Slide 4",
+                "image": "property-8025-someplace-drive-fresno-ca-93765-slide4.jpg"
+            }
+        ]
+    },
+    {
+        "address": "7202 Someplace Drive", 
+        "cityStateZip": "Fresno, CA. 93771",
+        "url": "",
+        "type": "house", 
+        "bedrooms": "5", 
+        "bathrooms": "3",
+        "propertyImages": [
+            {
+                "name": "7202 someplace drive fresno ca 93771 Slide 1",
+                "image": "property-7202-someplace-drive-fresno-ca-93771-slide1.jpg"
+            },
+            {
+                "name": "7202 someplace drive fresno ca 93771 Slide 2",
+                "image": "property-7202-someplace-drive-fresno-ca-93771-slide2.jpg"
+            },
+            {
+                "name": "7202 someplace drive fresno ca 93771 Slide 3",
+                "image": "property-7202-someplace-drive-fresno-ca-93771-slide3.jpg"
+            },
+            {
+                "name": "7202 someplace drive fresno ca 93771 Slide 4",
+                "image": "property-7202-someplace-drive-fresno-ca-93771-slide4.jpg"
+            }
+        ]
+    },
+    {
+        "address": "9015 Someplace Drive", 
+        "cityStateZip": "Fresno, CA. 93755",
+        "url": "",
+        "type": "apartment", 
+        "bedrooms": "5", 
+        "bathrooms": "4",
+        "propertyImages": [
+            {
+                "name": "9015 someplace drive fresno ca 93755 Slide 1",
+                "image": "property-9015-someplace-drive-fresno-ca-93755-slide1.jpg"
+            },
+            {
+                "name": "9015 someplace drive fresno ca 93755 Slide 2",
+                "image": "property-9015-someplace-drive-fresno-ca-93755-slide2.jpg"
+            },
+            {
+                "name": "9015 someplace drive fresno ca 93755 Slide 3",
+                "image": "property-9015-someplace-drive-fresno-ca-93755-slide3.jpg"
+            },
+            {
+                "name": "9015 someplace drive fresno ca 93755 Slide 4",
+                "image": "property-9015-someplace-drive-fresno-ca-93755-slide4.jpg"
+            }
+        ]
+    },
+    {
+        "address": "1000 Someplace Drive", 
+        "cityStateZip": "Fresno, CA. 93773",
+        "url": "",
+        "type": "apartment", 
+        "bedrooms": "studio", 
+        "bathrooms": "2",
+        "propertyImages": [
+            {
+                "name": "1000 someplace drive fresno ca 93773 Slide 1",
+                "image": "property-1000-someplace-drive-fresno-ca-93773-slide1.jpg"
+            },
+            {
+                "name": "1000 someplace drive fresno ca 93773 Slide 2",
+                "image": "property-1000-someplace-drive-fresno-ca-93773-slide2.jpg"
+            },
+            {
+                "name": "1000 someplace drive fresno ca 93773 Slide 3",
+                "image": "property-1000-someplace-drive-fresno-ca-93773-slide3.jpg"
+            },
+            {
+                "name": "1000 someplace drive fresno ca 93773 Slide 4",
+                "image": "property-1000-someplace-drive-fresno-ca-93773-slide4.jpg"
+            }
+        ]
+    },
+    {
+        "address": "2100 Someplace Drive", 
+        "cityStateZip": "Fresno, CA. 93771",
+        "url": "",
+        "type": "house", 
+        "bedrooms": "4", 
+        "bathrooms": "3",
+        "propertyImages": [
+            {
+                "name": "2100 someplace drive fresno ca 93771 Slide 1",
+                "image": "property-2100-someplace-drive-fresno-ca-93771-slide1.jpg"
+            },
+            {
+                "name": "2100 someplace drive fresno ca 93771 Slide 2",
+                "image": "property-2100-someplace-drive-fresno-ca-93771-slide2.jpg"
+            },
+            {
+                "name": "2100 someplace drive fresno ca 93771 Slide 3",
+                "image": "property-2100-someplace-drive-fresno-ca-93771-slide3.jpg"
+            },
+            {
+                "name": "2100 someplace drive fresno ca 93771 Slide 4",
+                "image": "property-2100-someplace-drive-fresno-ca-93771-slide4.jpg"
+            }
+        ]
+    },
+    {
+        "address": "1540 Someplace Drive", 
+        "cityStateZip": "Fresno, CA. 93775",
+        "url": "",
+        "type": "house", 
+        "bedrooms": "4", 
+        "bathrooms": "2.5",
+        "propertyImages": [
+            {
+                "name": "1540 someplace drive fresno ca 93775 Slide 1",
+                "image": "property-1540-someplace-drive-fresno-ca-93775-slide1.jpg"
+            },
+            {
+                "name": "1540 someplace drive fresno ca 93775 Slide 2",
+                "image": "property-1540-someplace-drive-fresno-ca-93775-slide2.jpg"
+            },
+            {
+                "name": "1540 someplace drive fresno ca 93775 Slide 3",
+                "image": "property-1540-someplace-drive-fresno-ca-93775-slide3.jpg"
+            },
+            {
+                "name": "1540 someplace drive fresno ca 93775 Slide 4",
+                "image": "property-1540-someplace-drive-fresno-ca-93775-slide4.jpg"
+            }
+        ]
+    },
+    {
+        "address": "4023 Someplace Drive", 
+        "cityStateZip": "Fresno, CA. 93779",
+        "url": "",
+        "type": "house", 
+        "bedrooms": "3", 
+        "bathrooms": "2.5",
+        "propertyImages": [
+            {
+                "name": "4023 someplace drive fresno ca 93779 Slide 1",
+                "image": "property-4023-someplace-drive-fresno-ca-93779-slide1.jpg"
+            },
+            {
+                "name": "4023 someplace drive fresno ca 93779 Slide 2",
+                "image": "property-4023-someplace-drive-fresno-ca-93779-slide2.jpg"
+            },
+            {
+                "name": "4023 someplace drive fresno ca 93779 Slide 3",
+                "image": "property-4023-someplace-drive-fresno-ca-93779-slide3.jpg"
+            },
+            {
+                "name": "4023 someplace drive fresno ca 93779 Slide 4",
+                "image": "property-4023-someplace-drive-fresno-ca-93779-slide4.jpg"
+            }
+        ]
+    },
+    {
+        "address": "2300 Someplace Drive", 
+        "cityStateZip": "Fresno, CA. 93774",
+        "url": "",
+        "type": "house", 
+        "bedrooms": "5", 
+        "bathrooms": "3.5",
+        "propertyImages": [
+            {
+                "name": "2300 someplace drive fresno ca 93774 Slide 1",
+                "image": "property-2300-someplace-drive-fresno-ca-93774-slide1.jpg"
+            },
+            {
+                "name": "2300 someplace drive fresno ca 93774 Slide 2",
+                "image": "property-2300-someplace-drive-fresno-ca-93774-slide2.jpg"
+            },
+            {
+                "name": "2300 someplace drive fresno ca 93774 Slide 3",
+                "image": "property-2300-someplace-drive-fresno-ca-93774-slide3.jpg"
+            },
+            {
+                "name": "2300 someplace drive fresno ca 93774 Slide 4",
+                "image": "property-2300-someplace-drive-fresno-ca-93774-slide4.jpg"
+            }
+        ]
+    },
+    {
+        "address": "1834 Someplace Drive", 
+        "cityStateZip": "Fresno, CA. 93778",
+        "url": "",
+        "type": "house", 
+        "bedrooms": "2", 
+        "bathrooms": "2.5",
+        "propertyImages": [
+            {
+                "name": "7493 someplace drive fresno ca 93777 Slide 1",
+                "image": "property-7493-someplace-drive-fresno-ca-93777-slide1.jpg"
+            },
+            {
+                "name": "7493 someplace drive fresno ca 93777 Slide 2",
+                "image": "property-7493-someplace-drive-fresno-ca-93777-slide2.jpg"
+            },
+            {
+                "name": "7493 someplace drive fresno ca 93777 Slide 3",
+                "image": "property-7493-someplace-drive-fresno-ca-93777-slide3.jpg"
+            },
+            {
+                "name": "7493 someplace drive fresno ca 93777 Slide 4",
+                "image": "property-7493-someplace-drive-fresno-ca-93777-slide4.jpg"
+            }
+        ]
+    }
+]

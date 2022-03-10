@@ -1,0 +1,56 @@
+.section-title {
+    color: #382e2d;
+    letter-spacing: .02rem;
+    font-family: "Squada One";
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+.section-title-home {
+    display: none;
+}
+.section-title-properties {
+    margin-top: 37px;
+}
+@media screen and (max-width: 765px) {
+    .section-title-properties {
+        margin-top: 0px;
+    }
+    .section-title {
+        font-size: 25px;
+    }
+}
+/*******
+Interior Content Styles
+*******/
+#interior-content {
+    padding: 25px;
+    flex-grow: 1;
+    width: 85%;
+}
+article.content {
+    padding-bottom: 28px;
+}
+
+article.content:last-child {
+    padding-bottom: 0px;
+}
+article.content p {
+    line-height: 21px;
+    font-family: arial;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+article.content p:last-child {
+    margin-bottom: 0px;
+}
+@media screen and (max-width: 765px) {
+    #interior-content {
+        justify-content: start;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        width: 100%;
+    }
+    p {
+        font-size: 13px;
+    }
+}
